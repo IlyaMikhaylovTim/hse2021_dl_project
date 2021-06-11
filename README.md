@@ -20,17 +20,19 @@
 
 ## Wandb repositories of our experiments
 
-### Simple Arithmetic Task
+### Experiment 1
+- to do
+
+### Experiment 2
+- to do
+
+### Experiment 3
 - [INTERPOLATION](https://wandb.ai/galmitr/INTERPOLATION)
 - Extrapolation (in process)
-
-### Add others
-- add 1
-- add 2
 
 ## Code
 - code for experiments: [`EXPERIMENTS.ipynb`](EXPERIMENTS.ipynb)
 - code for models: [models](./models)
 
 ## Report
-- add report
+- [`Report.ipynb`](Report.ipynb)
