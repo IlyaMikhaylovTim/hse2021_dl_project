@@ -30,7 +30,7 @@
 
 ## Code
 - code for experiments: [`EXPERIMENTS.ipynb`](EXPERIMENTS.ipynb)
-- code for models: [models](\models)
+- code for models: [models](./models)
 
 ## Report
 - add report
