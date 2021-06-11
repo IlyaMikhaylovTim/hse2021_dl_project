@@ -21,18 +21,26 @@
 ## Wandb repositories of our experiments
 
 ### Experiment 1
-- to do
+- [Experiment_1](https://wandb.ai/galmitr/Experiment_1)
 
 ### Experiment 2
-- to do
+- [Experiment_2](https://wandb.ai/galmitr/Experiment_2)
 
 ### Experiment 3
 - [INTERPOLATION](https://wandb.ai/galmitr/INTERPOLATION)
 - Extrapolation (in process)
 
 ## Code
-- code for experiments: [`EXPERIMENTS.ipynb`](EXPERIMENTS.ipynb)
-- code for models: [models](./models)
+Experiments: 
+- [`Experiment_1.ipynb`](Experiment_1.ipynb)
+- [`Experiment_2.ipynb`](Experiment_2.ipynb)
+- [`Experiment_3.ipynb`](Experiment_3.ipynb)
+
+Models: 
+- [NAC](./models/nac.py)
+- [Complex_NAC](./models/complex_nac.py)
+- [NALU](./models/nalu.py)
+- [NPU, NAU](./models/npu.py)
 
 ## Report
 [Google Colab file: `Report.ipynb`](https://colab.research.google.com/drive/1icQ92gBv-kuD7pY39xzeKBe6cJx9pAyU?usp=sharing)
