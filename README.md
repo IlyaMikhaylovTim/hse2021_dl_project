@@ -42,6 +42,7 @@
 | | | | | |
 | 3 | Сравнить качество различных моделей <br /> [4.1 Simple Function Learning Tasks](https://papers.nips.cc/paper/2018/file/0e64a7b00c83e3d22ce6b3acf2c582b6-Paper.pdf) | | | | [`Experiment_3.ipynb`](Experiment_3.ipynb) |
 | | | NALU <br /> NAC&#160;(+,&#160;-) <br /> NAC&#160;(*,&#160;/) <br /> NPU <br /> Others(?) <br />| 2 |  | |
+| | | | | |
 | 4 | Сравнить качество различных моделей <br /> [4.2 Simple Arithmetic Task](https://arxiv.org/pdf/2006.01681.pdf])| | | | `Experiment_4.ipynb` (TO DO) |
 | | | NALU <br /> NAC&#160;(+,&#160;-) <br /> NAC&#160;(*,&#160;/) <br /> NPU <br /> Others(?) <br />| 2 |  | |
 
