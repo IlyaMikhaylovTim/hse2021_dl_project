@@ -55,5 +55,5 @@
 
 **Report:**
 
-- [Git](Report.ipynb)
+- [Git: `Report.ipynb`](Report.ipynb)
 - [Google Colab: `Report.ipynb`](https://colab.research.google.com/drive/1icQ92gBv-kuD7pY39xzeKBe6cJx9pAyU?usp=sharing)
